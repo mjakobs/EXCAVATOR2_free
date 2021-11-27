@@ -1,6 +1,6 @@
 # EXCAVATOR2_free
 
-This repository hosts a copy of the EXCAVATOR2 copy number caller hosted on sourceforge at (https://sourceforge.net/projects/excavator2tool/)[https://sourceforge.net/projects/excavator2tool/] which has been modified in a way that allows it to be run outside of the directory in which the tool is stored.  
+This repository hosts a copy of the EXCAVATOR2 copy number caller hosted on sourceforge at https://sourceforge.net/projects/excavator2tool/ which has been modified in a way that allows it to be run outside of the directory in which the tool is stored.  
 If you use EXCAVATOR2 in your work, please cite the original authors and publication: 
 
 D'Aurizio, R., Pippucci, T., Tattini, L., Giusti, B., Pellegrini, M. and Magi, A., 2016. 
